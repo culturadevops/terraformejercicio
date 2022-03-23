@@ -1,0 +1,10 @@
+name_rds                  = "owner"
+allocated_storage = ""
+storage_type = ""
+engine = ""
+engine_version = ""
+instance_class = ""
+username = ""
+password          =""
+db_subnet_group_name   = ""
+vpc_security_group_ids = [ "" ]
