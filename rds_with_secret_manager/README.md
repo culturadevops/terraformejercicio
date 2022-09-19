@@ -1,19 +1,10 @@
 # terraform aws rds with aws secret manager
-how to create RDS and SECRET MANAGER with terraform, how to saves credentials in AWS Secret manager automatic
+how to create RDS and SECRET MANAGER with terraform, how to saves credentials in AWS Secret manager automatic.
 this repository is part of videos on my youtube channel
 
+[here we talk about devops, cloud computing and more](https://www.youtube.com/channel/UCfJ67eVA7DkKbbIF5ceJDMA?sub_confirmation=1) 
 
-[![video terraform rds y secret manager](https://github.com/culturadevops/terraformejercicio/blob/master/terraformrdsysecretmanager.png)](https://youtu.be/p_ViMvxz0Ws)
+[![video terraform rds and secret manager](https://github.com/culturadevops/terraformejercicio/blob/master/rds_with_secret_manager/terraformrdsysecretmanager.png)](https://youtu.be/Bb8IjTwGpvw)
 
 
 [blog post spanish version ](https://culturadevops.blogspot.com/2022/09/tutorial-2023-aws-sns-para.html) 
-
-
-# First Example (1_lambda_node_send)
-
-[The first example sends a message to AWS SNS ](https://youtu.be/p_ViMvxz0Ws) 
-
-# Second Example (2_lambda_node_recive)
-
-
-[The second example receives message from an AWS SNS](https://youtu.be/p_ViMvxz0Ws?t=603) 
