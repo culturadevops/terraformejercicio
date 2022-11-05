@@ -1,5 +1,3 @@
-# terraform-aws-rds-instance
-
 
 
 
